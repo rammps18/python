@@ -3,7 +3,7 @@ class Student:
         self.name = name
         self.school = school
         self.marks = []
-    
+    @property
     def average(self):
         return sum(self.marks) /len(self.marks)
 
@@ -19,6 +19,6 @@ ram = workingStudent('Ram','setupati',80)
 print(ram.salary)
 ram.marks.append(57)
 ram.marks.append(98)
-print(ram.average())
+print(ram.average)
                 
                    
