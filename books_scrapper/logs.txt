@@ -1,0 +1,353 @@
+03-05-2021 08:58:13 INFO     [app.py:15] Loading books list.
+03-05-2021 08:58:13 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Tipping the Velvet`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `53.74`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Soumission`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `50.1`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Sharp Objects`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `47.82`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Sapiens: A Brief History of Humankind`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `54.23`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `The Requiem Red`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `22.65`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `The Dirty Little Secrets of Getting Your Dream Job`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `33.34`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `17.93`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `22.6`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `The Black Maria`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `52.15`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Starving Hearts (Triangular Trade Trilogy, #1)`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `13.99`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Shakespeare's Sonnets`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `20.66`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Set Me Free`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `17.46`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `52.29`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Rip it Up and Start Again`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `35.02`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `57.25`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Olio`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `23.88`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Mesaerion: The Best Science Fiction Stories 1800-1849`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `37.59`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `Libertarianism for Beginners`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `51.33`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 08:58:14 INFO     [book.py:34] Found book name, `It's Only the Himalayas`.
+03-05-2021 08:58:14 INFO     [book.py:55] Found book price `45.17`
+03-05-2021 08:58:14 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:03:53 INFO     [app.py:15] Loading books list.
+03-05-2021 09:03:53 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 09:04:48 INFO     [app.py:15] Loading books list.
+03-05-2021 09:04:48 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Tipping the Velvet`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `53.74`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Soumission`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `50.1`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Sharp Objects`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `47.82`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Sapiens: A Brief History of Humankind`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `54.23`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `The Requiem Red`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `22.65`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `The Dirty Little Secrets of Getting Your Dream Job`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `33.34`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `17.93`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `22.6`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `The Black Maria`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `52.15`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Starving Hearts (Triangular Trade Trilogy, #1)`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `13.99`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Shakespeare's Sonnets`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `20.66`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Set Me Free`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `17.46`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `52.29`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Rip it Up and Start Again`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `35.02`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `57.25`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Olio`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `23.88`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Mesaerion: The Best Science Fiction Stories 1800-1849`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `37.59`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `Libertarianism for Beginners`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `51.33`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:04:49 INFO     [book.py:34] Found book name, `It's Only the Himalayas`.
+03-05-2021 09:04:49 INFO     [book.py:55] Found book price `45.17`
+03-05-2021 09:04:49 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:56 INFO     [app.py:15] Loading books list.
+03-05-2021 09:10:56 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Tipping the Velvet`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `53.74`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Soumission`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `50.1`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Sharp Objects`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `47.82`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Sapiens: A Brief History of Humankind`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `54.23`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `The Requiem Red`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `22.65`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `The Dirty Little Secrets of Getting Your Dream Job`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `33.34`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `17.93`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `22.6`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `The Black Maria`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `52.15`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Starving Hearts (Triangular Trade Trilogy, #1)`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `13.99`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Shakespeare's Sonnets`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `20.66`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Set Me Free`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `17.46`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `52.29`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Rip it Up and Start Again`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `35.02`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `57.25`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Olio`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `23.88`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Mesaerion: The Best Science Fiction Stories 1800-1849`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `37.59`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `Libertarianism for Beginners`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `51.33`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:10:58 INFO     [book.py:34] Found book name, `It's Only the Himalayas`.
+03-05-2021 09:10:58 INFO     [book.py:55] Found book price `45.17`
+03-05-2021 09:10:58 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:11:52 INFO     [app.py:15] Loading books list.
+03-05-2021 09:11:52 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 09:11:54 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:11:54 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:11:54 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:11:54 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:11:54 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:12:17 INFO     [book.py:42] found book page link, `catalogue/a-light-in-the-attic_1000/index.html`
+03-05-2021 09:12:17 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:12:17 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:12:17 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:10 INFO     [app.py:15] Loading books list.
+03-05-2021 09:14:10 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Tipping the Velvet`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `53.74`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Soumission`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `50.1`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Sharp Objects`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `47.82`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Sapiens: A Brief History of Humankind`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `54.23`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `The Requiem Red`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `22.65`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `The Dirty Little Secrets of Getting Your Dream Job`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `33.34`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `17.93`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `22.6`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `The Black Maria`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `52.15`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Starving Hearts (Triangular Trade Trilogy, #1)`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `13.99`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Shakespeare's Sonnets`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `20.66`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Set Me Free`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `17.46`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `52.29`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Rip it Up and Start Again`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `35.02`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `57.25`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Olio`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `23.88`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Mesaerion: The Best Science Fiction Stories 1800-1849`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `37.59`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `Libertarianism for Beginners`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `51.33`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:11 INFO     [book.py:34] Found book name, `It's Only the Himalayas`.
+03-05-2021 09:14:11 INFO     [book.py:55] Found book price `45.17`
+03-05-2021 09:14:11 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:22 INFO     [app.py:15] Loading books list.
+03-05-2021 09:14:22 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 09:14:24 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:14:24 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:14:24 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:14:24 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:14:24 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:14:46 INFO     [book.py:42] found book page link, `catalogue/a-light-in-the-attic_1000/index.html`
+03-05-2021 09:14:46 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:14:46 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:14:46 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:21:13 INFO     [app.py:15] Loading books list.
+03-05-2021 09:21:13 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 09:21:15 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:21:15 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:21:15 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:21:15 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:21:15 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:22:29 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:22:29 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:22:29 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:23:02 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:23:02 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:23:02 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:23:26 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:23:26 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:23:26 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:24:08 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:24:08 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:24:08 INFO     [book.py:70] Found book rating,`None`
+03-05-2021 09:24:56 INFO     [app.py:15] Loading books list.
+03-05-2021 09:24:56 INFO     [app.py:17] Requesting http://books.toscrape.com
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `A Light in the Attic`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `51.77`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`3`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Tipping the Velvet`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `53.74`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`1`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Soumission`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `50.1`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`1`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Sharp Objects`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `47.82`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`4`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Sapiens: A Brief History of Humankind`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `54.23`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`5`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `The Requiem Red`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `22.65`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`1`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `The Dirty Little Secrets of Getting Your Dream Job`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `33.34`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`4`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `17.93`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`3`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `22.6`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`4`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `The Black Maria`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `52.15`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`1`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Starving Hearts (Triangular Trade Trilogy, #1)`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `13.99`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`2`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Shakespeare's Sonnets`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `20.66`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`4`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Set Me Free`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `17.46`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`5`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `52.29`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`5`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Rip it Up and Start Again`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `35.02`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`5`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `57.25`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`3`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Olio`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `23.88`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`1`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Mesaerion: The Best Science Fiction Stories 1800-1849`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `37.59`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`1`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `Libertarianism for Beginners`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `51.33`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`2`
+03-05-2021 09:24:58 INFO     [book.py:34] Found book name, `It's Only the Himalayas`.
+03-05-2021 09:24:58 INFO     [book.py:55] Found book price `45.17`
+03-05-2021 09:24:58 INFO     [book.py:70] Found book rating,`2`
